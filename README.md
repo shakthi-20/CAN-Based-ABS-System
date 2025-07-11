@@ -32,7 +32,6 @@ This project simulates a Controller Area Network (CAN)-based Anti-lock Braking S
 
 ### 3. **Simulation Tools**
 - **MATLAB/Simulink** – Control modeling and signal flow   
-- **CAN Toolbox** – Message scheduling, delay, and priority testing  
 
 ---
 
